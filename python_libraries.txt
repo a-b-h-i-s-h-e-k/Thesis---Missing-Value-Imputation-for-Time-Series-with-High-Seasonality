@@ -1,0 +1,22 @@
+- pip install tqdm
+- pip install requests
+- pip install pandas, numpy, matplotlib.pyplot, seaborn
+- pip install scikit-learn
+- pip install folium
+- pip install spicy
+- pip install statistics
+- pip install json2json
+- pip install JSON4JSON
+- pip install DateTime
+- pip install pillow
+- pip install statsmodels
+- pip install dtaidistance
+- pip install fastdtw
+- pip install prophet
+- pip install "ray[tune]"
+- pip install "ray[tune]" ipywidgets
+- pip install plotly
+- pip install -U kaleido
+- pip install tqdm
+
+
